@@ -1,0 +1,8 @@
+torch~=2.2.0+cu121
+torchvision~=0.17.0+cu121
+torchviz~=0.0.2
+torchinfo~=1.8.0
+pillow~=9.2.0
+opencv-python~=4.9.0.80
+pathlib~=1.0.1
+tqdm~=4.64.1
